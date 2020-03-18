@@ -45,10 +45,10 @@
         
         
         <!-- Ovdje navodimo naše mapirane klase -->
-        <mapping class="hr.edunova.hibernate.model.Vozilo" />
-        <mapping class="hr.edunova.hibernate.model.Kupac" />
-        <mapping class="hr.edunova.hibernate.model.Prodavac" />
-        <mapping class="hr.edunova.hibernate.model.Prodaja" />
+        <mapping class="hr.autosalon.hibernate.model.Vozilo" />
+        <mapping class="hr.autosalon.hibernate.model.Kupac" />
+        <mapping class="hr.autosalon.hibernate.model.Prodavac" />
+        <mapping class="hr.autosalon.hibernate.model.Prodaja" />
         
         
     </session-factory>
